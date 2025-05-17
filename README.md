@@ -1,6 +1,6 @@
 # Dockman
 Dockman (Docker Manager) is a remote control app for Docker, built using Flutter.
-![Get it on Google Play](./assets/google_play_download.png)
+[![Get it on Google Play](./assets/google_play_download.png)](https://play.google.com/store/apps/details?id=dev.t4ils.dockman)
 
 Dockman requires Portainer, a universal container management platform for Docker, to be installed on the host computer and be visible by the client device. Follow the instructions to install Portainer: https://portainer.io/install
 This app uses access token authentication to access Portainer's remote API.
