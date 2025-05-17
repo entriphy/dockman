@@ -1,0 +1,1 @@
+/home/t4ils/dev2/DockMan/dockman/build/app/intermediates/cxx/Debug/56s3zd3f/obj/armeabi-v7a

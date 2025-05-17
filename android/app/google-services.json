@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615855700333",
+    "project_id": "dockman-b880c",
+    "storage_bucket": "dockman-b880c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615855700333:android:aa66328a89ba2857ff8264",
+        "android_client_info": {
+          "package_name": "dev.t4ils.dockman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLac8oIFY7vUplefkNuCXQro_4a5AMRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

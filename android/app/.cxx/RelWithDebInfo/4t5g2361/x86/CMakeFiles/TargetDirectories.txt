@@ -1,0 +1,2 @@
+/home/t4ils/dev2/DockMan/dockman/android/app/.cxx/RelWithDebInfo/4t5g2361/x86/CMakeFiles/edit_cache.dir
+/home/t4ils/dev2/DockMan/dockman/android/app/.cxx/RelWithDebInfo/4t5g2361/x86/CMakeFiles/rebuild_cache.dir
